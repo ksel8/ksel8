@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ksel8
-- 🐥 Founder of Digital Chick
 - 🙋 I’m interested in web development, specifically with Angular
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on open source project which can help people
