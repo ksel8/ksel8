@@ -2,7 +2,7 @@
 - 🐥 Founder of Digital Chick
 - 🙋 I’m interested in web development, specifically with Angular
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on open source project which can help people
+- 💞️ You can ask me to collaborate on helpful open source project
 - 📫 You can reach me on kevselen@gmail.com
 
 <!---
