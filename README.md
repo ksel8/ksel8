@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksel8
-- 🙋 I’m interested in web development, specifically with Angular
+- 🙋 I’m interested in web & mobile development, specifically with Angular & Swift
 - 🌱 I’m currently improve my skills on TypeScript
 - 💞️ You can ask me to collaborate on helpful open source project
 - 📫 You can reach me on kevselen@gmail.com
